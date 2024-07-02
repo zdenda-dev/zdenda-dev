@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **advanced JavaScript**
 
-- 📝 I regularly write articles on [medium.com/@zj11](medium.com/@zj11)
+- 📝 I regularly write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz)
 
-- ⚡ Fun fact **I love Linux**
+- ⚡ Fun fact: **I love Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
