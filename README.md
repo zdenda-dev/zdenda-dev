@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zdenda-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zdenda-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<hr>
 
 - 🌱 I’m currently learning **advanced JavaScript**
 
@@ -18,15 +18,17 @@
 - 🌐 JavaScript
 - 🛠️ HTML
 - 🎨 CSS
+- 👨‍💻 Visual Studio Code
 
 <hr>
 
 <h3>Software skills:</h3>
 
-- 🎨 Affinity Photo, Designer, Publisher
+- 🖼️ Affinity Photo, Designer, Publisher
 - 📸 Zoner Photo Studio X
 - 📽️ DaVinci Reslove
 - 📡 Discord server management & Discord bot management
+- 💡 Blender
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdenda-dev&show_icons=true&locale=en&layout=compact" alt="zdenda-dev" /></p>
 
