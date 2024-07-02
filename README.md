@@ -30,6 +30,8 @@
 - 📡 Discord server management & Discord bot management
 - 💡 Blender
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdenda-dev&show_icons=true&locale=en&layout=compact" alt="zdenda-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zdenda-dev&show_icons=true&locale=en" alt="zdenda-dev" /></p>
