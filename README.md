@@ -19,6 +19,7 @@
 - 🛠️ HTML
 - 🎨 CSS
 - 👨‍💻 Visual Studio Code
+- 🐧 Linux terminal
 
 <hr>
 
@@ -27,8 +28,8 @@
 - 🖼️ Affinity Photo, Designer, Publisher
 - 📸 Zoner Photo Studio X
 - 📽️ DaVinci Reslove
-- 📡 Discord server management & Discord bot management
 - 💡 Blender
+- 📡 Discord server management & Discord bot management
 
 <hr>
 
