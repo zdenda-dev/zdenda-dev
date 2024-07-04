@@ -33,7 +33,7 @@
 
 <hr>
 
-<p><img align="left" src="" alt="zdenda-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdenda-dev&show_icons=true&locale=en&layout=compact" alt="zdenda-dev" /></p>
 
 <br>
 
