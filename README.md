@@ -5,11 +5,11 @@
 
 <hr>
 
-- 🌱 I’m currently learning **advanced JavaScript**
+- 🌱 I’m currently learning **advanced JavaScript**.
 
-- 📝 I regularly write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz)
+- 🤖 I'm currently working on an advanced Discord bot project.
 
-- ⚡ Fun fact: **I love Linux**
+- 📝 I regularly write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz).
 
 <hr>
 
