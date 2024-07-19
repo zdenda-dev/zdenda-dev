@@ -5,7 +5,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **advanced JavaScript**.
+- 🌱 I’m currently learning **Java**.
 
 - 🤖 I'm currently working on an advanced Discord bot project.
 
@@ -19,6 +19,7 @@
 - 🛠️ HTML
 - 🎨 CSS
 - 👨‍💻 Visual Studio Code
+- ☕ Java & IntelliJ IDEA Community
 - 🐧 Linux terminal
 
 <hr>
