@@ -5,9 +5,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **Java** and **C#**.
 
-- 🤖 I'm currently working on an advanced Discord bot project.
+- 🤖 I'm currently working on an advanced Discord bot project and on a FilmPhotosTracker project.
 
 - 📝 I regularly write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz).
 
@@ -18,7 +18,6 @@
 - 🌐 JavaScript
 - 🛠️ HTML
 - 🎨 CSS
-- 👨‍💻 Visual Studio Code
 - ☕ Java & IntelliJ IDEA Community
 - 🐧 Linux terminal
 
@@ -30,6 +29,7 @@
 - 📸 Zoner Photo Studio X
 - 📽️ DaVinci Reslove
 - 💡 Blender
+- 🐧 Linux (Arch & Debian-based)
 - 📡 Discord server management & Discord bot management
 
 <hr>
