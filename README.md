@@ -42,6 +42,8 @@
 - 📸 Nikon D7500
 - 🔭 Tamron 18-400mm, Nikkor 35mm, Sigma 105mm Macro, Tokina 11-16mm
 
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zdenda-dev&show_icons=true&locale=en&layout=compact" alt="zdenda-dev" /></p>
 
 <br>
