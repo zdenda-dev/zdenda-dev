@@ -11,6 +11,8 @@
 
 - 📝 I write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz).
 
+- 👨‍💻 User of Visual Studio Code, Visual Studio Community and IntelliJ Idea Comminity!
+
 <hr>
 
 <h3>Coding skills:</h3>
