@@ -5,11 +5,11 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Java** and **C#**.
+- 🌱 I’m currently learning **C#**.
 
-- 🤖 I'm currently working on an advanced Discord bot project and on a FilmPhotosTracker project.
+- 🤖 I'm currently working on an advanced Discord bot project, FilmPhotosTracker project and Velocity Caluclator project.
 
-- 📝 I regularly write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz).
+- 📝 I write articles on: [medium.com/@zj11](medium.com/@zj11) and [astro.cz](astro.cz).
 
 <hr>
 
@@ -18,7 +18,8 @@
 - 🌐 JavaScript
 - 🛠️ HTML
 - 🎨 CSS
-- ☕ Java & IntelliJ IDEA Community
+- ☕ Java
+- 🕹️ C#
 - 🐧 Linux terminal
 
 <hr>
