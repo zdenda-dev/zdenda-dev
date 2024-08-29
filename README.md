@@ -5,7 +5,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **C#**.
+- 🌱 I’m currently learning **C#** & **Python**.
 
 - 🤖 I'm currently working on an advanced Discord bot project, FilmPhotosTracker project and Velocity Caluclator project.
 
@@ -22,6 +22,7 @@
 - 🎨 CSS
 - ☕ Java
 - 🕹️ C#
+- 🐍 Python
 - 🐧 Linux terminal
 
 <hr>
