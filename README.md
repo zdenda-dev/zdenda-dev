@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# & Python.<br><br>🤖 I'm currently working on an advanced Discord bot project, FilmPhotosTracker project and Velocity Caluclator project.<br><br>📝 I write articles on: medium.com/@zj11 and astro.cz.<br><br>👨‍💻 User of Visual Studio Code, Visual Studio Community and IntelliJ Idea Comminity!
+🌱 I’m currently learning **C#** & **Python**.<br><br>🤖 I'm currently working on an advanced **Discord bot** project, **FilmPhotosTracker** project and **Velocity Caluclator** project.<br><br>👨‍💻 User of Visual Studio Code, Visual Studio Community, IntelliJ Idea Comminity and PyCharm Community
 
 
 ## 🌐 Socials:
