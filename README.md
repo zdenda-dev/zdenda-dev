@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **C#** & **Python**.<br><br>🤖 I'm currently working on an advanced **Discord bot** project, **FilmPhotosTracker** project and **Velocity Caluclator** project.<br><br>👨‍💻 User of **Visual Studio Code**, **Visual Studio Community**, **IntelliJ Idea Comminity** and **PyCharm Community**
+🌱 I’m currently learning **advanced Java** and **C#**.<br><br>🤖 I'm currently working on an advanced **Discord bot** project, **FilmPhotosTracker** project and **Velocity Calculator** project.<br><br>👨‍💻 User of **Visual Studio Code**, **Visual Studio Community**, **IntelliJ Idea Comminity** and **PyCharm Community**
 
 
 ## 🌐 Socials:
