@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Zdenda and I'm a student from Czech Republic.</p>
+<p align="left">My name is Zdenda and I'm a student from Czech Republic. I'm also a writer about spaceflight, award-winning photographer, amateur astronomer and IT enthusiast. I love discovering nature of our planet and exploring the night sky!</p>
 
 ###
 
